@@ -30,3 +30,4 @@ process.on('exit', function()
     process.stdout.write('Good bye....\n');
 });
 ask(0);
+console.log("End of the file");
