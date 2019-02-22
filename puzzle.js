@@ -31,3 +31,4 @@ process.on('exit', function()
 });
 ask(0);
 console.log("End of the file");
+console.log('Updated');
